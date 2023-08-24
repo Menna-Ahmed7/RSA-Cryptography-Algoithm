@@ -1,6 +1,6 @@
 # RSA-Cryptography-Algoithm
 
-it is an RSA algorithm for one-way communication between 2 users 
+Implementation of RSA algorithm for one-way communication between 2 users 
 
 # contributors
 
