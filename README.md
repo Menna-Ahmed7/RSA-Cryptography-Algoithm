@@ -1,4 +1,4 @@
-# RSA-Cryptography-Algoithm
+# RSA-Cryptography-Algorithm
 
 Implementation of RSA algorithm for one-way communication between 2 users 
 
